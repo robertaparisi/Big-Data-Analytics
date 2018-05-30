@@ -1,0 +1,20 @@
+source;id;time;text
+MilanoToday;113272742032812_1790953097598093;2017-05-29T06:58:41+0000;In centro.
+MilanoToday;113272742032812_1790243561002380;2017-05-28T23:19:00+0000;Tutte le emozioni del Giro d'Italia 100 in fotografie
+RomaToday;41916963809_10155312528398810;2017-05-29T06:28:00+0000;lacrime e commozione tra i tifosi fuori dalla stadio
+RomaToday;41916963809_10155312365058810;2017-05-29T03:01:00+0000;Le pagelle di #CrotoneLazio #fantacalcio
+MilanoToday;113272742032812_1790244217668981;2017-05-29T01:11:00+0000;Passeggiando al parco tra le lucciole. Che magia. #BellaMilano - Grazie a Silvio Scavetto per la foto
+MilanoToday;113272742032812_1790244681002268;2017-05-29T04:49:00+0000;Attimi di pace milanesi. #BellaMilano - Grazie a Ila Esse per la foto
+MilanoToday;113272742032812_1790245014335568;2017-05-29T06:47:00+0000;Il cielo in un’altra delle sue versioni mozzafiato. #BellaMilano - Grazie a Vincent Rochefort
+MilanoToday;113272742032812_1790243054335764;2017-05-29T05:08:00+0000;Un evento molto bello, tra musica, cibo e artisti di strada.
+MilanoToday;113272742032812_1790995930927143;2017-05-29T08:03:13+0000;Una mattinata decisamente movimentata. Cosa è accaduto
+RomaToday;41916963809_10155313650283810;2017-05-29T07:01:39+0000;Da Capitano a capitano: ecco chi è il bambino della Roma
+RomaToday;41916963809_10155313718098810;2017-05-29T07:52:57+0000;Pedone investito a Colli Albani, gravi le sue condizioni
+RomaToday;41916963809_10155313676208810;2017-05-29T07:22:42+0000;Scontro tra un fuoristrada ed un furgone: 7 i feriti
+MilanoToday;113272742032812_1790244444335625;2017-05-29T03:01:00+0000;L’immutabile eleganza del nostro salotto. Meraviglioso. #BellaMilano - Grazie a Sergey Bykov per la foto
+RomaToday;41916963809_10155313762163810;2017-05-29T08:22:21+0000;A Monteverde si sta consumando una nuova crisi per i 5 stelle. Da settimane volano gli stracci ed è aperta una vera e propria caccia a franchi tirator
+MilanoToday;113272742032812_1790452990981437;2017-05-28T21:47:00+0000;L'uomo aveva appena lasciato sua sorella in stazione. Poi, la tragedia.
+RomaToday;41916963809_10155313805438810;2017-05-29T08:48:44+0000;Da ieri brucia il parco della Cervelletta
+RomaToday;41916963809_10155312527023810;2017-05-29T05:44:00+0000;"Concedetemi un pò di paura".  La lettera di Totti ai tifosi...
+RomaToday;41916963809_10155312526028810;2017-05-29T04:17:00+0000;I tifosi fuori dall'Olimpico. I messaggi per il Capitano
+MilanoToday;113272742032812_1790438740982862;2017-05-28T20:53:35+0000;I carabinieri stanno ascoltando i testimoni. L'accaduto
